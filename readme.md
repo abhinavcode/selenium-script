@@ -14,7 +14,7 @@ Follow the following steps
 ```sh
 pip install selenium
 ```
-- place chromedriver in the same folder as your code
+- Place chromedriver in the same folder as your code
 - Run the code
 - See the magic
 
